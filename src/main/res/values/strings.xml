@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Admin App</string>
+    <string name="upload_notice">Upload Notice</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="upload_ebook">Upload Ebook</string>
+    <string name="delete_notice">Delete Notice</string>
+    <string name="update_faculty">Update Faculty</string>
+</resources>
