@@ -1,2 +1,3 @@
 # Admin-App
+Upload notice, Upload images and upload e-book cells completed.
 currently working on it...
